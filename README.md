@@ -62,13 +62,13 @@ python nome_do_arquivo.py
 A tensão no capacitor durante a descarga segue a equação:
 
 \[
-V(t) = V_0 e^{-t/RC}
+<img src="mat1.png">
 \]
 
 Isolando \( t \) para calcular o tempo até a tensão alvo:
 
 \[
-t = -RC \cdot \ln\left( \frac{V_{alvo}}{V_0} \right)
+<img src="mat2.png">
 \]
 
 Esse valor é exibido de forma destacada durante a execução.
