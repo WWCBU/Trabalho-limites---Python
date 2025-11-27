@@ -36,11 +36,7 @@ O objetivo é determinar:
 
 Adicione abaixo uma imagem do gráfico gerado pelo código:
 
-**INSIRA A IMAGEM AQUI**
-
-```
-![Gráfico da Descarga do Capacitor](caminho/para/imagem.png)
-```
+<img src="Grafico.png"></img>
 
 ---
 
