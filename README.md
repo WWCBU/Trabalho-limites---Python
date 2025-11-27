@@ -80,13 +80,3 @@ Esse valor é exibido de forma destacada durante a execução.
 O código completo está disponível no repositório.
 
 ---
-
-## 📄 Licença
-
-Adicione aqui o tipo de licença caso deseje.
-
----
-
-## 📬 Contato
-
-Caso queira contribuir ou tirar dúvidas, fique à vontade para abrir uma issue ou enviar uma mensagem.
