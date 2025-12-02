@@ -2,9 +2,7 @@
 
 Este repositório contém um código em Python que simula a **descarga de um capacitor** em um circuito RC utilizando a equação exponencial:
 
-\[
-V(t) = V_0 \cdot e^{-t/(RC)}
-\]
+<img src="mat1.png">
 
 O programa solicita ao usuário apenas:
 - **Tensão inicial (V0)**
