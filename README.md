@@ -53,6 +53,19 @@ Adicione abaixo uma imagem do gráfico gerado pelo código:
 
 ---
 
+
+
+##  ONDE ENTRA O LIMITE?
+
+O limite é usado para determinar o comportamento da tensão quando o tempo cresce muito:
+
+Com isso podemos prever:   <img src="mat3.png">
+
+- o instante em que a tensão fica abaixo de um valor seguro,
+
+- quanto tempo o capacitor leva para “esvaziar”.
+
+
 ## 📌 Como Executar
 
 1. Certifique-se de ter o Python instalado.
