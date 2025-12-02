@@ -1,3 +1,18 @@
+**Eletrônica — Circuitos de Temporização**
+
+Quando você aperta um botão e um LED fica aceso por alguns segundos, depois apaga suavemente: isso é um capacitor descarregando através de um resistor.
+
+👉 Aplicações reais:
+
+- Timers simples (“delay”)
+
+- Pisca-pisca
+
+- Circuitos de debounce de botões
+
+- Indicadores luminosos que apagam lentamente
+
+
 # Simulação da Descarga de um Capacitor RC
 
 Este repositório contém um código em Python que simula a **descarga de um capacitor** em um circuito RC utilizando a equação exponencial:
