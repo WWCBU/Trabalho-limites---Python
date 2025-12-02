@@ -82,6 +82,11 @@ pip install numpy matplotlib
 python nome_do_arquivo.py
 ```
 
+
+Também é possível testar através do link abaixo:
+
+https://colab.research.google.com/drive/1Sx4yMsBc_LE_AAu5HvyR7Gs0QJASoK_o?usp=sharing
+
 ---
 
 ## 📘 Explicação Matemática
