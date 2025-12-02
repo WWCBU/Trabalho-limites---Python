@@ -35,16 +35,6 @@ O objetivo é determinar:
 
 ---
 
-## 🔧 Funcionalidades do Código
-
-- Cálculo automático da constante de tempo **τ = R·C**.
-- Cálculo do tempo exato em que a tensão atinge o valor solicitado.
-- Lista dos valores de tempo e tensão a cada 5 pontos da simulação.
-- Destaque em console quando a tensão alvo é atingida.
-- Gráfico gerado automaticamente usando `matplotlib`.
-
----
-
 ## 🖥️ Exemplo de Gráfico
 
 Adicione abaixo uma imagem do gráfico gerado pelo código:
