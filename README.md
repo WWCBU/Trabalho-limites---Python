@@ -53,9 +53,7 @@ Adicione abaixo uma imagem do gráfico gerado pelo código:
 
 ---
 
-
-
-##  ONDE ENTRA O LIMITE?
+## 🤔 ONDE ENTRA O LIMITE?
 
 O limite é usado para determinar o comportamento da tensão quando o tempo cresce muito:
 
@@ -67,6 +65,7 @@ Com isso podemos prever:
 
 - quanto tempo o capacitor leva para “esvaziar”.
 
+---
 
 ## 📌 Como Executar
 
@@ -89,15 +88,15 @@ python nome_do_arquivo.py
 
 A tensão no capacitor durante a descarga segue a equação:
 
-\
+
 <img src="mat1.png">
-\
+
 
 Isolando \( t \) para calcular o tempo até a tensão alvo:
 
-\
+
 <img src="mat2.png">
-\
+
 
 Esse valor é exibido de forma destacada durante a execução.
 
